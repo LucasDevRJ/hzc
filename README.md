@@ -20,16 +20,18 @@ O curso foi feito a partir da plataforma [Alura](https://www.alura.com.br/), no 
 
 O site foi feito utilizando HTML/CSS e JavaScript. O site todo, praticamente, é feito por cards de vídeos e possui JS para abrir e fechar o menu, quando esta sendo utilizada a responsividade do site.
 
+![](./assets/img/hzc.gif)
+
 ## 📁 Acesso ao projeto
 
-1. Clique no <a href="https://github.com/LucasDevRJ/barbeariaAlura">repositorio</a> para o donwload;
+1. Clique no <a href="https://github.com/LucasDevRJ/hzc">repositorio</a> para o donwload;
 2. Descompacte o repositorio;
 3. Coloque o repositorio descompactado em alguma IDE;
 4. Agora poderá mexer e até editar o projeto.
 
 ## 🛠️ Abrir e rodar o projeto
 
-* Precisa ter o donwload do <a href="https://github.com/LucasDevRJ/barbeariaAlura">projeto</a> em seu computador;
+* Precisa ter o donwload do <a href="https://github.com/LucasDevRJ/hzc">projeto</a> em seu computador;
 * Precisa ter alguma IDE.
 * IDE recomendada: <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 
