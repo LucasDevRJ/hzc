@@ -31,7 +31,7 @@ O site foi feito utilizando HTML/CSS e JavaScript. O site todo, praticamente, é
 
 ## 🛠️ Abrir e rodar o projeto
 
-* Precisa ter o donwload do <a href="https://github.com/LucasDevRJ/hzc.git">projeto</a> em seu computador;
+* Precisa ter o donwload do <a href="https://github.com/LucasDevRJ/hzc/archive/refs/heads/master.zip">projeto</a> em seu computador;
 * Precisa ter alguma IDE.
 * IDE recomendada: <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 
